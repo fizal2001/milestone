@@ -1,0 +1,278 @@
+span {
+    color: rgb(0, 204, 255);
+    font-weight: bold;
+}
+
+.sep7imus {
+    margin-left: 80px;
+}
+
+.box1 {
+    width: 100%;
+    height: 53vh;
+    background-color: rgb(69, 69, 69);
+}
+
+.next {
+    position: relative;
+    top: 45%;
+    left: -75px;
+}
+
+.previous {
+    position: relative;
+    top: 45%;
+    left: 72px;
+}
+
+.p1 {
+    width: 350px;
+    color: rgb(183, 182, 182);
+    text-align: justify;
+    position: relative;
+    left: 72px;
+    bottom: 45px;
+}
+
+.lm1 {
+    position: relative;
+    width: 150px;
+    left: 75px;
+    bottom: 50%;
+}
+
+.img1 {
+    position: relative;
+    height: 400px;
+    left: 45%;
+    bottom: 280px;
+}
+
+.box2 {
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+
+.purchase {
+    position: relative;
+    left: 20%;
+    bottom: 22px;
+    width: 150px;
+    border-radius: 3px;
+}
+
+.details1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.multi {
+    width: 300px;
+    /* padding-left: 10px; */
+}
+
+.resp {
+    width: 300px;
+    /* padding-left: 10px; */
+}
+
+.uniq {
+    width: 300px;
+    /* padding-left: 10px; */
+}
+
+.mu {
+    font-size: 30px;
+    position: relative;
+    left: -55px;
+    top: 38px;
+}
+
+.lat {
+    position: relative;
+    margin-top: 15px;
+    left: 5%;
+}
+
+.hr1 {
+    position: relative;
+    margin-left: 4.5%;
+    width: 1350px;
+}
+
+.hr2 {
+    position: relative;
+    margin-left: 4.5%;
+    width: 1350px;
+    bottom: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.tabs {
+    width: 600px;
+    text-align: justify;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.choose {
+    float: right;
+    width: 600px;
+    padding-right: 70px;
+    position: relative;
+    bottom: 380px;
+}
+.hr4{
+    position: relative;
+    bottom: 20px;
+    }
+.lates{
+    /* width: 6 00px; */
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.hr5{
+    width: 650px;
+
+}
+.hr6{
+    position: relative;
+    bottom: 20px;
+    width: 650px;
+}
+.imm{
+    margin-left: 90px;
+}
+.cli{
+float: right;
+position: relative;
+bottom: 530px;
+margin-right: 70px;
+}
+.cota{
+    position: relative;
+    right: 150px;
+    top: -50px;
+}
+.footerbox1 {
+    position: relative;
+    bottom: -120px;
+    width: 100%;
+    height: 55vh;
+    background-color: rgb(69, 69, 69);
+}
+.footerbox2 {
+        position: relative;
+    bottom: -120px;
+    width: 100%;
+    height: 8vh;
+    background-color: rgb(33, 33, 33);
+}
+.sedd{
+    position: relative;
+    padding-left: 60px;
+    padding-top: 50PX;
+    width: 280px;
+}
+.conta{
+    position: relative;
+    padding-left: 90px;
+    padding-top: 50px;
+    width: 280px;
+    left: 20%;
+    bottom: 57.5%;
+}
+.rec{
+    position: relative;
+    left: 255px;
+    bottom: 177px;
+    text-align: justify;
+}
+.photo{
+    position: relative;
+    bottom: 520px;
+    left: 290%;
+}
+
+.im1{
+    position: relative;
+    bottom: 760px;
+    left: 1000px;
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.pexels.com/photos/733853/pexels-photo-733853.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.phot{
+    position: relative;
+    bottom: 345px;
+    left: 350px;
+}
+.im2{
+    position: relative;
+    bottom: 858px;
+    left: 1150px;
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.pexels.com/photos/1451040/pexels-photo-1451040.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.im3{
+    position: relative;
+    bottom: 958px;
+    left: 1300px;
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.im4{
+    position: relative;
+    bottom: 930px;
+    left: 1000px;
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.pexels.com/photos/13410184/pexels-photo-13410184.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.im5{
+    position: relative;
+    bottom: 1030px;
+    left: 1150px;
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.pexels.com/photos/12839143/pexels-photo-12839143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.im6{
+    position: relative;
+    bottom: 1130px;
+    left: 1300px;
+    height: 100px;
+    width: 100px;
+    background-image: url(https://images.pexels.com/photos/15446277/pexels-photo-15446277/free-photo-of-kinsale-ireland-off-limits-lighthouse-golf-course-for-the-rich.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+}
+.footer2{
+    position: relative;
+    top: 100px;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(51, 50, 50);
+}
+.lis{
+    display: inline;
+    width: 100%;
+}
+.ull{
+    width: 100%;
+    padding: 10px;
+    margin-left: 20px;
+}
